@@ -1,0 +1,168 @@
+body{
+    margin:0%;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.first{
+    background: rgba(0,0,0,0.5)url("images/donation4.jpg");
+    color: white;
+    background-size: cover;
+    background-blend-mode: darken;
+}
+h1{
+    font-size: 50px;
+    margin-bottom: 0;
+    font-weight: 900;
+}
+.header{
+    padding: 180px 350px;
+    text-align: center;
+}
+.btn{
+    color: white;
+    background-color: tomato;
+    padding: 15px 25px;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+}
+.header p{
+    padding: 0px 70px 10px 70px;
+}
+.second{
+    text-align: center;
+    margin: 120px 0px;
+}
+h2{
+    font-size: 30px;
+    
+}
+.amount{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+.color{
+    margin: 20px 10px;
+    color: rgb(95, 94, 94);
+    background-color: rgb(240, 239, 239);
+    width: 120px;
+    padding: 40px 0px;
+}
+.colorfull{
+    border: 2px solid tomato;
+    border-radius: 5px;
+    color: tomato;
+    margin: 20px 10px;
+    background-color: rgb(252, 223, 211);
+    width: 120px;
+    padding: 40px 0px;
+}
+.otheramount{
+    margin: 25px 0px;
+    border-bottom: 2px solid rgb(95, 94, 94);
+    width: 690px;
+    margin-left: 330px;
+}
+.text-color{
+    color: rgb(95, 94, 94);
+}
+.third{
+    margin-bottom: 100px;
+}
+.plan{
+    text-align: center;
+}
+.donate-plan{
+    display: flex;
+    margin: 50px 0px;
+    justify-content: center;
+}
+.donation-sector{
+    height: 230px;
+    width: 300px;
+    margin-left: 20px;
+    border-radius: 5px;
+    padding: 60px 20px;
+}
+#food{
+    background-color: rgb(228, 243, 248);
+}
+#education{
+    background-color: rgb(247, 232, 224);
+}
+#shelter{
+    background-color: rgb(220, 250, 250);
+}
+.half-width{
+    width: 40%;
+    margin: 2%;
+    padding-right: 30px;
+}
+.half-width img{
+    width: 100%;
+    border-radius: 5px;
+}
+.forth{
+    display: flex;
+    margin-left: 125px;
+}
+.half-width button{
+    margin-top: 20px;
+}
+.sixth{
+    margin-top: 100px;
+    text-align: center;
+}
+.sixth p{
+    margin-bottom: 40px;
+}
+
+.inputbox{
+    padding: 15px 20px;
+    width: 250px;
+    margin-right: -4px;
+    border: none;
+    font-size: 16px;
+    background-color: rgb(189, 186, 186);
+    font-weight: 700;
+}
+.inputbtn{
+    padding: 15px 30px;
+    color: white;
+    background-color: tomato;
+    border:none;
+    font-size: 16px;
+    font-weight: 700;
+} 
+.inputbtn{
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.inputbox{
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+.email-section{
+    width: 800px;
+    background-color: rgb(247, 229, 222);
+    padding: 70px 0px;
+    border-radius: 5px;
+    margin: auto;
+}
+footer{
+    margin-top: 120px;
+    height: 160px;
+    background-color: rgb(17, 16, 16);
+    text-align: center;
+}
+footer p{
+    color: white;
+    font-size: 12px;
+}
+footer h2{
+    color: tomato;
+    font-family: "Sofia", sans-serif;
+    padding-top: 30px;
+}
